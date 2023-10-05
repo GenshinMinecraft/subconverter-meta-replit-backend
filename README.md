@@ -4,3 +4,5 @@
 
 
 灵感来源于 https://github.com/Atticus6/subconverter_on_replit
+
+.replit 来源于 https://github.com/Atticus6/subconverter_on_replit/blob/main/.replit
