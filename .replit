@@ -1,0 +1,6 @@
+run = ["./subconverter"]
+
+entrypoint = "subconverter"
+
+[nix]
+channel = "stable-22_11"
